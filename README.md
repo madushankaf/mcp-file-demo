@@ -2,6 +2,9 @@
 
 A simple demo that shows how to upload files through a chat interface. This project has 4 services that work together.
 
+<img width="2118" height="1193" alt="image" src="https://github.com/user-attachments/assets/fc2a072c-e179-403e-9dcd-c7318d99a1ab" />
+
+
 ## What You Need
 
 Before you start, make sure you have these installed on your computer:
